@@ -1,4 +1,4 @@
-﻿# {{repo_name}}
+﻿# IMSP-ReactApp
 
 1 Modify below settings to run the workflow successfully after clone.🛠️
 
